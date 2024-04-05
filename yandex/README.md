@@ -1,6 +1,5 @@
-# yandex_cl
-Yandex.ru Clone# Reverse Engineering UI - Yandex
-
+# Yandex Search
+Reverse Engineering UI - Yandex
 ## Overview
 
 This project aims to reverse engineer the user interface (UI) elements of Yandex's various services and applications. By studying and replicating Yandex's UI design principles, we aim to gain insights into their design philosophy and create consistent, user-friendly interfaces for our own projects.
